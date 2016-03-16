@@ -1,0 +1,19 @@
+{
+  "name": "rds-client",
+  "version": "0.0.8",
+  "description": "ride data store client lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangeman/rds-client.git"
+  },
+  "author": "orangeman <flo@andlabs.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orangeman/rds-client/issues"
+  },
+  "homepage": "https://github.com/orangeman/rds-client#readme"
+}
